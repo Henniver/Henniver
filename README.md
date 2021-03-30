@@ -3,6 +3,5 @@
 </p>
 <h2 align="center">Nice to e-meet you 🤝🏻<h2>
 <p align="center">
-  I'm a fresh graduate from a Le Wagon Istanbul web development bootcamp 🎓
-  I enjoyed the learning process a lot and I am eager to continue my journey into this fascinating world. I am now looking for opportunities to apply my new found skills in both the back- and the front-end and keep learning by helping innovative individuals or companies to grow and drive positive change
+  I'm a fresh graduate from a Le Wagon Istanbul web development bootcamp 🎓 and I am eager to continue my journey into this fascinating world. I am now looking for opportunities to apply my new found skills in  both the back- and the front-end and keep learning by helping innovative individuals or companies to grow and drive positive change
 </p>
