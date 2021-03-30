@@ -8,7 +8,9 @@
  <p align="center">
   When I'm not coding, you can find me on my 🚲 or in the ⛰️  or in a 🏕️, preferably in any combination of the three.
  </p>
-<br>
+ <div align="center">
+  [![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hendrikvermeersch/)](https://www.linkedin.com/in/hendrik-vermeersch/)
+ </div>
 <h3>How I'd define myself</h3>
   
 ```ruby
