@@ -39,7 +39,7 @@ class Hendrik
  def currently
   {
     learning: 'JavaScript',
-    next_up: 'React & Python',
+    next_up: 'React',
     reading: 'The Everything Store',
     interested_in: 'Blockchain development'
    }
